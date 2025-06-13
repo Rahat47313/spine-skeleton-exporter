@@ -60,4 +60,4 @@ $ .\gradlew.bat desktop:dist
 generated jar is at `$PROJECT_DIR/desktop/build/libs/desktop-1.0.jar`
 
 ## Credit
-This was forked from [spine-skeleton-exporter](https://github.com/ssz66666/spine-skeleton-exporter), but that was made in Java, and I changed it to JavaScript since that's what I'm familiar with
+This was forked from [spine-skeleton-exporter](https://github.com/ssz66666/spine-skeleton-exporter), but that was made in Java, and I plan to change it to JavaScript (when I'm free again) since that's what I'm familiar with
